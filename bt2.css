@@ -1,0 +1,31 @@
+.bo{
+    width: 180px;
+    height: 400px;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.con1{
+    position: relative;
+    top:270px;
+    margin-left: 5px;
+    
+}
+.con2{
+    font-size: 10px;
+}
+.con3{
+    color: green;
+}
+.con4{
+    color: rgb(230, 12, 12);
+}
+.con5{
+    border: 1px solid rgba(39, 35, 35, 0);
+    border-radius: 10px;
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+    background-color: rgb(43, 40, 245);
+    color: aliceblue;
+}

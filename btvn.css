@@ -1,0 +1,44 @@
+.bo{
+    background-color: rgb(243, 203, 154);
+    border-radius: 5px;
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+}
+.con1{
+    margin: 10px 10px 10px 10px;
+}
+.con2{
+    border: 1px solid rgb(109, 104, 104);
+    border-radius: 5px; 
+    background-color: rgb(148, 165, 180);    
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    color: rgb(105, 107, 109);
+    
+    padding-top: 5px;
+}
+.con3{
+    border: 1px solid rgb(233, 193, 193);
+    border-radius: 5px; 
+    width: 300px;
+    height: 30px;
+    margin-bottom: 5px;
+    background-color: rgba(75, 66, 66, 0.362);
+    color: rgba(32, 29, 29, 0.355);
+    margin: 10px 10px 10px 10px;
+    padding-top: 5px;
+}
+.con4{
+    border: 1px solid rgb(97, 89, 89);
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px; 
+    background-color: rgb(49, 44, 40);
+    color: rgb(104, 119, 133);
+    padding: 10px;
+}
